@@ -1,0 +1,26 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 210px 100px 100px;
+    padding: 3px;
+}
+
+.grid-items {
+    /* border: 1px solid red; */
+    padding: 3px;
+    /* justify-self: center; */
+    align-content: flex-start;
+}
+
+.info {
+    font-size: 14px;
+    margin-left: 1rem;
+}
+.img-info {
+    border: 1px solid #d1d1d1;
+    padding: 5px;
+    border-radius: 0.2rem;
+}
+.btn {
+    margin-left: 1rem;
+}
+
